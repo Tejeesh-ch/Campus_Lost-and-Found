@@ -126,4 +126,4 @@ Developed with Python | Tkinter | MySQL
 The Campus Lost & Found Management System provides an easy way for students and staff to report and recover lost belongings.
 
 ---
-⭐ Developed as a College Project
+⭐ Developed as a College Project.
