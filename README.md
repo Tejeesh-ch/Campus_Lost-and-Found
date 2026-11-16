@@ -95,3 +95,35 @@ The Campus Lost & Found Management System provides an easy and organized way to 
 ---
 
 Developed with Python | Tkinter | MySQL
+---
+
+## 🖥️ Application Preview
+
+![Campus Lost and Found Application](campus-app.png.jpeg)
+
+## 👨‍💻 Team Members
+
+1. K. Veera Venkata Ganesh — RA2511026010870
+2. B. Manjunath Reddy — RA2511026010882
+3. Venkata Sai Tejeesh Ch — RA2511026010887
+
+## 🔧 Technologies Used
+
+- Python
+- Tkinter (GUI)
+- MySQL Database
+- mysql-connector-python
+
+## ✨ Future Enhancements
+
+- User login and registration
+- Email notifications
+- Image upload for lost items
+- Advanced search and filtering
+
+## 📌 Conclusion
+
+The Campus Lost & Found Management System provides an easy way for students and staff to report and recover lost belongings.
+
+---
+⭐ Developed as a College Project
